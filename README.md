@@ -2,10 +2,6 @@
 
 ![CI](https://github.com/GrandLaite/devops-for-developers-project-74/actions/workflows/push.yml/badge.svg)
 
-JS-блог на базе Fastify, упакованный в Docker с поддержкой CI/CD и PostgreSQL.
-
----
-
 ## Требования
 
 | Зависимость    | Версия   |
