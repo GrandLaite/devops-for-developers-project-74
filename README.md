@@ -1,4 +1,4 @@
-# devops-for-developers-project-74
+# Docker Compose Practice
 
 ![CI](https://github.com/GrandLaite/devops-for-developers-project-74/actions/workflows/push.yml/badge.svg)
 
